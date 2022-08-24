@@ -1,0 +1,164 @@
+.head{
+    background-color: rgb(5, 72, 5);
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    width: 1400px;
+    
+}
+.searchbox{
+ position: absolute;
+    border-radius: 50px;
+    top: 10%;
+    width: 500px;
+    height: 35px;
+    left: 20%;
+
+    }
+
+    body{
+        background-image: url(background.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 400px;
+        width: 1200px;
+    }
+    li{
+        list-style-type: none;
+        font-family: verdana;
+    }
+
+.old{
+    font-size:  40px;
+    color: white;
+}
+
+.profile{
+    display: flex;
+    left: 900px;
+    position: absolute;
+    top: 6%;
+    color: white;
+}
+
+#first{
+    margin: 50px;
+
+}
+
+.time{
+    font-size: small;
+    position: relative;
+    left: 50px;
+}
+
+.post{
+    background-color: rgb(5, 72, 5);
+    width: 70px;
+   position: relative;left: 500px;
+}
+.girl{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 60px;
+}
+
+.text{
+    width: 580px;
+    height: 200px;
+    background-color: rgb(202, 216, 218);
+}
+
+
+    
+
+
+.mind{
+    top: 135px;
+    left: 370px;
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    background-color: white;
+    padding: 10px;
+
+}
+
+#like{
+    float: left;
+    margin: 3px;   
+}
+
+#comment{
+    float: left;
+    margin: 3px;   
+
+}
+#share{
+    float: left;
+    margin: 3px;   
+
+}
+
+
+
+.house{
+    width: 600px;
+    height: 300px;
+
+}
+
+#rani{
+    top: 450px;
+    left: 370px;
+    position: absolute;
+    background: white;
+    width: 600px;
+    height: 580px;
+    border-radius: 3px/3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+    
+
+.girl2{
+    width: 30px;
+    height: 30px;
+    position: relative;
+   top: 10px; 
+
+    }
+
+.name{
+    left: 50px; 
+position: relative;
+top: 10px;
+}
+
+#third{
+    top: 135px;
+    left: 1030px;
+    width: 210px;
+    height: 900px;
+    position: absolute;
+    font-family: verdana;
+    color: rgb(44, 40, 40);
+    font-size: 15px;
+    background-color: white;
+
+}
+.write{
+    position: relative;
+    left: 50px;
+    background-color: rgb(5, 72, 5);
+    top: 10px;
+}
+
+
+    
+
+    
+
+
+
