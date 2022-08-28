@@ -1,0 +1,320 @@
+body{
+    background-color: rgb(76, 9, 76);
+    overflow-x: hidden;
+    
+}
+
+
+
+small{
+    font-size: x-small;
+}
+
+.search{
+    width: 800px;
+    position: absolute;
+    left: 200px;
+    margin-top: 10px;
+   border-top-left-radius: 15px;
+   border-top-right-radius: 15px;
+   border-bottom-left-radius: 15px;
+   border-bottom-right-radius: 15px;
+
+
+}
+
+.line{
+    position: relative;
+    left: 55px;
+    bottom: 25px;
+
+}
+.logo{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 5px;
+    right: 5px;
+}
+
+.menu{
+    color: blanchedalmond;
+    width: 200px;
+}
+
+#content{
+    width: 200px;
+}
+
+#chats{
+    position: absolute;
+    left: 200px;
+    top: 44px;
+    background-color: whitesmoke;
+    width: 750px;
+    height: 1000px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+#thread{
+    position: absolute;
+    left: 961px;
+    top: 44px;
+    background-color: whitesmoke;
+    width: 375px;
+    height: 1000px;
+    padding: 5px;
+    margin-top: 10px;
+
+}
+
+.ID{
+    width: 30px;
+    height: 30px;
+
+}
+
+.pencil{
+    width: 22px;
+    height: 22px;
+}
+
+.response{
+position: relative;
+left: 40px;
+bottom:50px;
+}
+
+.bot{
+background-color: rgb(214, 235, 238);
+
+}
+
+.photos{
+    position: absolute;
+    top: 30px;
+    left: 650px;
+}
+.pix{
+    width: 20px;
+    height: 20px;
+}
+
+.passport{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 40px;
+    bottom: 60px;
+}
+.reply{
+    color:rgb(40, 40, 212);
+
+}
+
+#replies{
+position: relative;
+left: 100px;
+bottom: 100px;
+
+
+}
+
+.date{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    position: absolute;
+    left: 325px;
+    background-color: whitesmoke;
+}
+
+
+#message{
+    width: 500px;
+    height: 30px;
+    position: absolute;
+    left: 200px;
+    top: 750px;
+
+}
+.code{
+    position: absolute;
+    top: 630px;
+    left: 110px;
+}
+
+li{
+list-style: none;
+}
+.list{
+    position: relative;
+    bottom: 60px;
+    left: 100px;
+    border:solid 1px;
+    border-top-right-radius:15px ;
+    border-top-left-radius: 15px;
+    height: 50px;
+    width: 600px;
+    border: solid 1px;
+
+
+
+
+}
+
+.number{
+    height: 50px;
+    background-color: rgb(228, 228, 228);
+    width: 3px;
+    border-radius: 10%;
+    position:absolute;
+    border-top-left-radius: 15px;
+    top: -60px;
+    left: 100px;
+    }
+
+    .in{
+        position: relative;
+        left: 10px;
+    }
+
+    .icons{
+        background-color:white;
+        height: 30px;
+        width: 695px;
+        position: relative;
+        left: 45px;
+        bottom: 76px;
+        border-top-left-radius: 15px;
+        border: solid 1px;
+        
+    }
+
+    .bold{
+        height: 30px;
+        position: relative;
+        left: 10px;
+
+    }
+
+    .chat{
+        width: 689px;
+        height: 100px;
+        position: relative;
+        left:45px;
+        background-color: whitesmoke;
+        bottom: 77px;
+    }
+.low-icons{
+    height: 30px;
+    position: relative;
+    bottom: 110px;
+    left: 50px;
+}
+
+.zip{
+
+    width: 350px;
+    height: 40px;
+    border: solid 1px;
+    position: relative;
+    left: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+
+}
+
+.noicon{
+    width: 35px;
+    height: 35px;
+    position: relative;
+    left: 10px;
+    top: 2px;
+
+
+}
+
+.index{
+    position: relative;
+    left: 50px;
+    bottom: 53px;
+}
+
+.zip2{
+
+    width: 350px;
+    height: 40px;
+    border: solid 1px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+    }
+
+
+
+
+.bold2{
+position: absolute;
+left: 7px;
+top: 520px;
+width: 370px;
+height: 30px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+
+}
+
+.low-icons2{
+position: absolute;
+top: 640px;
+width: 250px;
+height: 25px;
+right: 125px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+
+}
+
+
+.chats2{
+height: 150px;
+width: 370px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+background-color: whitesmoke;
+
+
+}
+
+.send{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top:645px;
+    left: 350px;
+}
+
+.send1{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom:-110px;
+    left: 700px;
+}
