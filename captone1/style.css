@@ -2,6 +2,7 @@ body{
     background-color: rgb(76, 9, 76);
     overflow-x: hidden;
     
+    
 }
 
 
@@ -25,8 +26,9 @@ small{
 
 .line{
     position: relative;
-    left: 55px;
+    left: 30px;
     bottom: 25px;
+    width: 300px;
 
 }
 .logo{
@@ -40,6 +42,20 @@ small{
 .menu{
     color: blanchedalmond;
     width: 200px;
+}
+.boot{
+    background-color: blue;
+ 
+}
+
+.boot1{
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 5px;
+    right: 5px;
+    
 }
 
 #content{
@@ -57,6 +73,20 @@ small{
     margin-top: 10px;
 }
 
+.comment{
+    position: relative;
+        bottom:30px;
+}
+ .comment3{
+    position: relative;
+    bottom:60px;
+}
+ 
+.bot2{
+    position: relative;
+    bottom: 30px;
+}
+
 #thread{
     position: absolute;
     left: 961px;
@@ -72,6 +102,8 @@ small{
 .ID{
     width: 30px;
     height: 30px;
+    
+    
 
 }
 
@@ -116,9 +148,14 @@ background-color: rgb(214, 235, 238);
 #replies{
 position: relative;
 left: 100px;
-bottom: 100px;
+bottom:100px;
 
 
+}
+
+.reply2{
+    position: relative;
+    bottom: 100px;
 }
 
 .date{
@@ -137,7 +174,7 @@ bottom: 100px;
     height: 30px;
     position: absolute;
     left: 200px;
-    top: 750px;
+    top: 650px;
 
 }
 .code{
@@ -222,6 +259,7 @@ list-style: none;
     border: solid 1px;
     position: relative;
     left: 20px;
+    bottom: 90px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     border-top-left-radius: 10px;
@@ -236,14 +274,13 @@ list-style: none;
     position: relative;
     left: 10px;
     top: 2px;
-
-
 }
 
 .index{
     position: relative;
     left: 50px;
     bottom: 53px;
+
 }
 
 .zip2{
@@ -253,7 +290,7 @@ list-style: none;
     border: solid 1px;
     position: relative;
     left: 20px;
-    top: 10px;
+    bottom: 80px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     border-top-left-radius: 10px;
@@ -267,7 +304,7 @@ list-style: none;
 .bold2{
 position: absolute;
 left: 7px;
-top: 520px;
+top: 500px;
 width: 370px;
 height: 30px;
 border-bottom-left-radius: 10px;
@@ -279,7 +316,7 @@ border-top-right-radius: 10px;
 
 .low-icons2{
 position: absolute;
-top: 640px;
+top: 620px;
 width: 250px;
 height: 25px;
 right: 125px;
@@ -307,7 +344,7 @@ background-color: whitesmoke;
     width: 20px;
     height: 20px;
     position: absolute;
-    top:645px;
+    top:625px;
     left: 350px;
 }
 
