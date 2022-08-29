@@ -1,8 +1,6 @@
 body{
     background-color: rgb(76, 9, 76);
-    overflow-x: hidden;
-    
-    
+    overflow-x: hidden;    
 }
 
 
@@ -178,8 +176,8 @@ bottom:100px;
 
 }
 .code{
-    position: absolute;
-    top: 630px;
+    position: relative;
+    bottom: 70px;
     left: 110px;
 }
 
