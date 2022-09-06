@@ -1,6 +1,8 @@
 body{
     background-color: rgb(76, 9, 76);
-    overflow-x: hidden;    
+    overflow-x: hidden;
+    height: 100%;    
+    box-sizing: border-box;
 }
 
 

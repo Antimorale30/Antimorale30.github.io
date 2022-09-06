@@ -4,14 +4,16 @@
     padding-bottom: 0.5px;
     width: 1400px;
     
+    
 }
 .searchbox{
  position: absolute;
     border-radius: 50px;
-    top: 10%;
+    top: 50px;
     width: 500px;
-    height: 35px;
-    left: 20%;
+    height: 50px;
+    left: 380px;
+    
 
     }
 
@@ -21,6 +23,7 @@
         background-size: cover;
         height: 400px;
         width: 1200px;
+        overflow-x:hidden ;
     }
     li{
         list-style-type: none;
@@ -41,7 +44,7 @@
 }
 
 #first{
-    margin: 50px;
+    margin: 100px;
 
 }
 
@@ -119,6 +122,7 @@
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 10px;
+    margin-bottom: 20px;
 }
     
 
